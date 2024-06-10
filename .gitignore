@@ -25,3 +25,4 @@ node_modules
 /Library.Persistence/obj
 /Library.Tests/bin/Debug/net8.0
 /Library.Tests/obj
+/.vs
