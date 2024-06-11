@@ -15,7 +15,7 @@ export default observer(function HomePage() {
         </Header>
         {userStore.isLoggedIn ? (
           <>
-            <Header as="h2" inverted content="Welcome to The Library App" />
+            <Header as="h2" inverted content="_Welcome to The Library App" />
             <Button as={Link} to="/books" size="huge" inverted>
               Go to Books!
             </Button>
